@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+https://ecored-atlantico.github.io/62330164-CF02-COMERCIALES-EN-MARKETING-DIGITAL/#/
 
 #
 
