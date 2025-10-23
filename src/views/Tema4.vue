@@ -10,7 +10,7 @@
 
     .bloque-texto-g.color-primario-10.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img02.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Fidelizar no es solo retener clientes, sino construir relaciones duraderas basadas en confianza, valor y experiencia, en un entorno comercial cada vez más competitivo, los programas de fidelización permiten diferenciarse, generar lealtad y aumentar el valor del cliente a largo plazo. 
@@ -48,7 +48,7 @@
         div.tarjeta-horz.mb-3
           img(src='@/assets/curso/temas/tema4/img03.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-white
-            .px-4
+            .px-lg-4
               p.mb-0 Los programas de fidelización son un conjunto de estrategias y acciones diseñadas por una empresa para mantener y fortalecer la relación con sus clientes actuales, incentivando la recompra, el uso frecuente de los servicios y la recomendación de la marca. En lugar de enfocarse únicamente en atraer nuevos clientes, se busca que quienes ya han confiado en la empresa se conviertan en clientes recurrentes, satisfechos y embajadores de la marca.
 
 
@@ -121,6 +121,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema4/img20.png', class="w-auto")
 
+    separador 
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -201,7 +202,7 @@
 
     //- Col3 - Col9
     .row.justify-content-center.align-items-center.mb-5
-      p.mb-4(data-aos="fade-left") Los modelos de negociación ofrecen marcos teóricos que permiten comprender cómo se desarrollan los acuerdos entre partes con intereses distintos. 
+      
       .col-12(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           
@@ -345,20 +346,20 @@
                
 
 
-    //- Col8 y Col3
-    .container.mb-5
-      .row.align-items-center(data-aos="fade-left")
-        .col-12.col-lg-10.bg07.justify-content-center.p-5.tarjeta.mx-auto.position-relative
-          .row.align-items-center
-            .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
-              figure
-                img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img15.png', alt='imagen decorativa').w-auto.position-absolute
-            .col-12.col-md-12.col-lg-8
-                TarjetaAudio.color-primario.mb-3.p-4(
-                  texto="Estrategias de fidelización"
-                  :audio="require('@/assets/curso/audio/audio.mp3')"
-                  @audio-hover="mostrarIndicadorTarjetaAudio = false"
-                )
+    //- //- Col8 y Col3
+    //- .container.mb-5
+    //-   .row.align-items-center(data-aos="fade-left")
+    //-     .col-12.col-lg-10.bg07.justify-content-center.p-5.tarjeta.mx-auto.position-relative
+    //-       .row.align-items-center
+    //-         .col-12.col-md-12.col-lg-4.mb-4.mb-lg-0.d-none.d-lg-block
+    //-           figure
+    //-             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/img15.png', alt='imagen decorativa').w-auto.position-absolute
+    //-         .col-12.col-md-12.col-lg-8
+    //-             TarjetaAudio.color-primario.mb-3.p-4(
+    //-               texto="Estrategias de fidelización"
+    //-               :audio="require('@/assets/curso/audio/audio.mp3')"
+    //-               @audio-hover="mostrarIndicadorTarjetaAudio = false"
+    //-             )
                 
 
 </template>

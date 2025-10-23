@@ -30,7 +30,7 @@
         div.tarjeta-horz.mb-3
           img(src='@/assets/curso/temas/tema1/img02.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-white
-            .px-4
+            .px-lg-4
               p.mb-0 La comunicación comercial puede definirse como el conjunto de acciones, mensajes y estrategias que utilizan las empresas para interactuar con clientes, socios, proveedores y otros actores del mercado, con el fin de promover productos, servicios o propuestas de valor. No se limita a la publicidad o a la venta directa, sino que abarca todos los canales y medios a través de los cuales una organización transmite información que impacta la percepción de su marca y la decisión de compra.
 
    
@@ -62,27 +62,27 @@
               SlyderF(columnas="col-lg-6 col-xl-6")
                 .tarjeta.bg03.p-4.align-items-center.img-topright
                   img(src='@/assets/curso/temas/tema1/img04.svg' alt='AvatarTop').w-auto
-                  h5.mb-4 Emisor
+                  h5.mb-4.pt-lg-5.pt-xl-0 Emisor
                   p.mb-0 La empresa o persona que transmite el mensaje.
 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
                   img(src='@/assets/curso/temas/tema1/img05.svg' alt='AvatarTop').w-auto
-                  h5.mb-4 Mensaje
+                  h5.mb-4.pt-lg-5.pt-xl-0 Mensaje
                   p.mb-0 La propuesta comercial, la información sobre el producto/servicio o el valor diferencial.
 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
                   img(src='@/assets/curso/temas/tema1/img13.svg' alt='AvatarTop').w-auto
-                  h5.mb-4 Canal
+                  h5.mb-4.pt-lg-5.pt-xl-0 Canal
                   p.mb-0 El medio de difusión (correo electrónico, redes sociales, reuniones presenciales, videollamadas, publicidad, etc.). 
                 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
                   img(src='@/assets/curso/temas/tema1/img14.svg' alt='AvatarTop').w-auto
-                  h5.mb-4 Receptor
+                  h5.mb-4.pt-lg-5.pt-xl-0 Receptor
                   p.mb-0 El cliente, consumidor, aliado o stakeholder que recibe el mensaje.
                 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
                   img(src='@/assets/curso/temas/tema1/img15.svg' alt='AvatarTop').w-auto
-                  h5.mb-4 Retroalimentación
+                  h5.mb-4.pt-lg-5.pt-xl-0 Retroalimentación
                   p.mb-0 Las respuestas, dudas, objeciones o aceptación que manifiesta el receptor.
 
     //- Col1 y Col9
@@ -163,7 +163,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 1.4 Herramientas digitales
+      h2#t_1_4 1.4 Herramientas digitales
 
 
     .container.tarjeta.color-primario-10.rounded-0.p-lg-0.p-3.mb-4(data-aos="fade-left")
@@ -187,7 +187,7 @@
       .col-12.col-lg-4
         p.mb-0 Entre las herramientas más utilizadas se encuentran Canva, Genially, PowerPoint y plataformas de CRM como HubSpot o Salesforce. Estas permiten diseñar propuestas visuales, incluir elementos multimedia, automatizar envíos y realizar seguimiento en tiempo real. 
       
-    .col-12.col-lg-10(data-aos="fade-left").mx-auto.mb-5
+    .col-12.col-lg-8(data-aos="fade-left").mx-auto.mb-5
         .tarjeta.p-4.bg01(data-aos="fade-left")
           p.mb-0 Además, el uso de herramientas digitales permite medir el impacto de la propuesta: cuántas veces fue vista, qué secciones generaron más interés y si el cliente interactuó con el contenido. Esto aporta datos valiosos para ajustar futuras comunicaciones y mejorar la efectividad comercial.
     
@@ -195,7 +195,7 @@
 
     //- Col10 e Imagen
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-12.col-lg-10.mx-auto
+      .col-12.col-lg-8.mx-auto
         //- Figura
         .titulo-sexto.mb-4
           h5 Figura 1. 
@@ -203,36 +203,36 @@
         ImagenInfografica.color-acento-botones.d-none.d-lg-block
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema1/img12.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img12.png', alt=' La figura muestra cinco diferentes herramientas digitales para la comunicación comercial. Entre estas tenemos: Canva, Genially, PowerPoint, HubSpot CRM y Google Slides. Canva: Diseño gráfico intuitivo, plantillas personalizables. Creación de propuestas visuales con identidad de marca. Genially: presentaciones interactivas, integración multimedia. Propuestas con videos, enlaces y animaciones. PowerPoint: presentación estructurada, fácil de compartir. Propuestas formales para reuniones o envíos por correo. HubSpot CRM: seguimiento de clientes, automatización de correos. Envío y monitoreo de propuestas personalizadas. Google Slides: colaboración en línea, acceso multiplataforma. Propuestas colaborativas en equipos de ventas')
               figcaption 
                 b Fuente. 
                 | Adaptado de Kotler & Keller, 2022.
 
-          .tarjeta.color-acento-botones.p-4(x="28%" y="81.7%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="28%" y="80.5%" numero="+")
             span 01
             p 
               b Canva: 
               | diseño gráfico intuitivo, plantillas personalizables. Creación de propuestas visuales con identidad de marca.
 
-          .tarjeta.color-acento-botones.p-4(x="14%" y="43.7%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="14%" y="43.2%" numero="+")
             span 02
             p 
               b Genially: 
               | presentaciones interactivas, integración multimedia. Propuestas con videos, enlaces y animaciones.
 
-          .tarjeta.color-acento-botones.p-4(x="37%" y="15.5%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="37%" y="15.5%" numero="+")
             span 03
             p 
               b PowerPoint: 
               | presentación estructurada, fácil de compartir. Propuestas formales para reuniones o envíos por correo.
 
-          .tarjeta.color-acento-botones.p-4(x="71.7%" y="19.8%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="71.7%" y="19.8%" numero="+")
             span 04
             p 
               b HubSpot CRM:
               | seguimiento de clientes, automatización de correos. Envío y monitoreo de propuestas personalizadas.
           
-          .tarjeta.color-acento-botones.p-4(x="83.8%" y="57%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="83.8%" y="56.5%" numero="+")
             span 05
             p 
               b Google Slides: 

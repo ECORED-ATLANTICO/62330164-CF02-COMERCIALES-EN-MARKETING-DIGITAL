@@ -119,7 +119,7 @@
         div.tarjeta-horz.mb-3
           img(src='@/assets/curso/temas/tema2/img04.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-white
-            .px-4
+            .px-lg-4
               p.mb-0 Las técnicas de anclaje y persuasión son herramientas psicológicas que influyen en la percepción del cliente durante la negociación. El anclaje consiste en presentar una primera cifra o propuesta que sirva como punto de referencia, condicionando las decisiones posteriores (Kahneman, 2011). Por ejemplo, si una empresa ofrece inicialmente un paquete premium de $1.200.000, cualquier oferta posterior parecerá más accesible en comparación.
 
 

@@ -58,12 +58,12 @@
       .col-12.col-lg-8.mx-auto
         //- Figura
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1. 
+          h5 Figura 2. 
             span Técnicas de seguimiento comercial
         ImagenInfografica.color-acento-botones.d-none.d-lg-block.img-infografica-2
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema3/img04.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img04.svg', alt='la figura relaciona cuatro técnicas de seguimiento comercial. La primera es la llamada telefónica; a segunda es el correo personalizado, la tercera es la reunión de seguimiento y finalmente el contenido adicional. Llamada telefónica: contacto directo, permite resolver dudas. Ejemplo: “¿Tuviste oportunidad de revisar la propuesta?”. Correo personalizado: refuerza el mensaje, permite adjuntar contenido. Ejemplo: envío de catálogo digital con beneficios adicionales. Reunión de seguimiento: espacio para aclarar dudas y negociar detalles. Ejemplo: agenda virtual para revisar condiciones comerciales. Contenido adicional: aporta valor, mantiene el interés. Ejemplo: video de uso del producto en entrenamiento funcional.')
               figcaption 
                 b Fuente. 
                 | Adaptado de Jobber & Lancaster, 2019.
@@ -182,9 +182,9 @@
                   | Adaptado de Fisher, Ury & Patton, 2011.
               thead
                 tr
-                  th Modelo
+                  th Herramientas
                   th Características principales
-                  th Ejemplo aplicado
+                  th Aplicación comercial
               tbody
                 tr
                   td.text-center HubSpot CRM
@@ -269,7 +269,8 @@
     .row.mb-5
       .col-12.col-lg-8.justify-content-center.mx-auto
         figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11.svg', alt='imagen decorativa')
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11.svg', alt='imagen decorativa').d-none.d-lg-block
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11m.svg', alt='imagen decorativa').d-block.d-lg-none
 
 
     separador
@@ -285,7 +286,7 @@
         div.tarjeta-horz.mb-3
           img(src='@/assets/curso/temas/tema3/img12.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-white
-            .px-4
+            .px-lg-4
               p.mb-0 La elaboración de informes permite evaluar el impacto del seguimiento comercial y tomar decisiones informadas. Según Jobber y Lancaster (2019), un informe de seguimiento debe incluir datos como número de contactos realizados, respuestas obtenidas, nivel de interés del cliente y acciones futuras. Estos informes pueden ser semanales, mensuales o por campaña.
 
 
