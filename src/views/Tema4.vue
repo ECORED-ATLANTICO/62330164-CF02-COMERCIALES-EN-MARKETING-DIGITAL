@@ -179,7 +179,7 @@
                   td 
                     ul.bullets
                       li Conocimiento profundo de necesidades.
-                  td Desarrollo de productos según feedback de clientes.
+                  td Desarrollo de productos según <em>feedback</em> de clientes.
 
                 tr
                   td.text-center Reducción de costos
@@ -242,7 +242,7 @@
                   h5.mb-4 Membresias
                   p El cliente paga una cuota para acceder a beneficios exclusivos. 
                   p 
-                    b Ejemplo:
+                    b Ejemplo: 
                     | membresía mensual con 15 % de descuento.
                 
                 .tarjeta.p-4.align-items-center.bg09.text-center
@@ -334,7 +334,7 @@
                 tr
                   td.text-center Comunicación constante
                   td Mantener contacto regular y relevante.
-                  td Newsletter mensual con novedades y consejos.
+                  td <em>Newsletter</em> mensual con novedades y consejos.
                 tr
                   td.text-center Valor sostenido
                   td Ofrecer beneficios continuos, no solo iniciales.

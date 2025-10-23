@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> reforzar los conocimientos adquiridos en el componente formativo mediante preguntas tipo falso/verdadero. A través de afirmaciones reflexivas y retroalimentación inmediata, el aprendiz podrá consolidar conceptos, identificar posibles confusiones y fortalecer su capacidad para aplicar estrategias comerciales de manera ética y efectiva en entornos digitales.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

@@ -179,7 +179,7 @@
               caption 
                 p.mb-0
                   b Fuente: 
-                  | Adaptado de Fisher, Ury & Patton, 2011.
+                  | Adaptado de Kotler & Keller, 2022.
               thead
                 tr
                   th Herramientas

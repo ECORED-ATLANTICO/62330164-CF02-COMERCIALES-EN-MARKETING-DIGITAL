@@ -15,7 +15,7 @@
       .col-12.col-lg-9(data-aos="fade-left")
         p.mb-3(data-aos="fade-left") Negociar es mucho más que cerrar un trato; es construir acuerdos que generen valor para ambas partes. En esta unidad, el aprendiz explorará los fundamentos de la negociación comercial, comprendiendo sus modelos, técnicas persuasivas y herramientas discursivas. La negociación estratégica implica entender al cliente, anticipar sus necesidades y utilizar recursos comunicativos que faciliten el consenso sin perder la coherencia comercial.
           .tarjeta.p-4.bg01(data-aos="fade-left")
-            p.mb-0 A través de ejemplos empresariales y herramientas prácticas, esta unidad busca que el aprendiz desarrolle habilidades para negociar propuestas comerciales de forma ética, efectiva y adaptada a distintos contextos. Desde el uso de técnicas de anclaje hasta la construcción de scripts persuasivos, cada contenido está orientado a fortalecer la capacidad de influir positivamente en la toma de decisiones del cliente.
+            p.mb-0 A través de ejemplos empresariales y herramientas prácticas, esta unidad busca que el aprendiz desarrolle habilidades para negociar propuestas comerciales de forma ética, efectiva y adaptada a distintos contextos. Desde el uso de técnicas de anclaje hasta la construcción de <em>scripts</em> persuasivos, cada contenido está orientado a fortalecer la capacidad de influir positivamente en la toma de decisiones del cliente.
     
     separador
 
@@ -57,7 +57,7 @@
             p.mb-0 El modelo distributivo se basa en la competencia: las partes negocian para obtener el mayor beneficio posible, como en una negociación de precios entre proveedor y cliente. 
     
     .tarjeta.p-4.bg01(data-aos="fade-left").mb-5
-      p.mb-0 El modelo integrativo busca beneficios mutuos, promoviendo soluciones que satisfagan a ambas partes; por ejemplo, una empresa de implementos deportivos que ofrece descuentos a un centro de CrossFit a cambio de visibilidad en redes sociales. El modelo colaborativo va más allá, construyendo relaciones a largo plazo basadas en confianza y cooperación.
+      p.mb-0 El modelo integrativo busca beneficios mutuos, promoviendo soluciones que satisfagan a ambas partes; por ejemplo, una empresa de implementos deportivos que ofrece descuentos a un centro de <em>CrossFit</em> a cambio de visibilidad en redes sociales. El modelo colaborativo va más allá, construyendo relaciones a largo plazo basadas en confianza y cooperación.
 
     .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-10(data-aos="fade-right")
@@ -195,7 +195,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_2_4 2.4 Desarrollo <em>Scripts</em>
+      h2#t_2_4 2.4 Desarrollo de <em>Scripts</em>
 
 
     //- Col3 - Col9

@@ -9,7 +9,7 @@
       .col-12.col-lg-8.mb-lg-3.mb-0(data-aos="fade-left")
         .row.justify-content-center.align-items-center.mb-2
           .col-12.col-lg-9.mb-0
-            p.mb-0 El componente formativo “Negociación de propuestas comerciales” brinda al aprendiz las herramientas necesarias para estructurar, presentar y dar seguimiento a propuestas comerciales de manera estratégica. A través del estudio de la comunicación comercial, se analizan los elementos clave del proceso comunicativo, las interferencias que pueden afectar su efectividad y el uso de herramientas digitales para mejorar la transmisión del mensaje. En la unidad de negociación estratégica, se abordan modelos de negociación, técnicas de anclaje y persuasión, así como el desarrollo de scripts comerciales que facilitan la interacción con el cliente.
+            p.mb-0 El componente formativo Negociación de propuestas comerciales brinda al aprendiz las herramientas necesarias para estructurar, presentar y dar seguimiento a propuestas comerciales de manera estratégica. A través del estudio de la comunicación comercial, se analizan los elementos clave del proceso comunicativo, las interferencias que pueden afectar su efectividad y el uso de herramientas digitales para mejorar la transmisión del mensaje. En la unidad de negociación estratégica, se abordan modelos de negociación, técnicas de anclaje y persuasión, así como el desarrollo de <em>scripts</em> comerciales que facilitan la interacción con el cliente.
           .col-12.col-lg-3.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/sintesis/img02.svg", class="img-fluid")  

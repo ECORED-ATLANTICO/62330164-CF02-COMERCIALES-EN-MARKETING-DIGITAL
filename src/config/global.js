@@ -81,7 +81,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Desarrollo <em>Scripts</em>',
+            titulo: 'Desarrollo de <em>Scripts</em>',
             hash: 't_2_4',
           },
         ],
@@ -137,7 +137,7 @@ export default {
           },
           {
             numero: '4.4',
-            titulo: 'tipos',
+            titulo: 'Tipos',
             hash: 't_4_4',
           },
           {

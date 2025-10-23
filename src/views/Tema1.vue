@@ -56,32 +56,32 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-12.col-md-8.col-lg-4.order-2.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img03.png', alt='imagen decorativa')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img03.png', alt='Imagen Decorativa')
           .col-12.col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
             .custom-slider
               SlyderF(columnas="col-lg-6 col-xl-6")
                 .tarjeta.bg03.p-4.align-items-center.img-topright
-                  img(src='@/assets/curso/temas/tema1/img04.svg' alt='AvatarTop').w-auto
+                  img(src='@/assets/curso/temas/tema1/img04.svg' alt='Imagen Decorativa').w-auto
                   h5.mb-4.pt-lg-5.pt-xl-0 Emisor
                   p.mb-0 La empresa o persona que transmite el mensaje.
 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
-                  img(src='@/assets/curso/temas/tema1/img05.svg' alt='AvatarTop').w-auto
+                  img(src='@/assets/curso/temas/tema1/img05.svg' alt='Imagen Decorativa').w-auto
                   h5.mb-4.pt-lg-5.pt-xl-0 Mensaje
                   p.mb-0 La propuesta comercial, la información sobre el producto/servicio o el valor diferencial.
 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
-                  img(src='@/assets/curso/temas/tema1/img13.svg' alt='AvatarTop').w-auto
+                  img(src='@/assets/curso/temas/tema1/img13.svg' alt='Imagen Decorativa').w-auto
                   h5.mb-4.pt-lg-5.pt-xl-0 Canal
                   p.mb-0 El medio de difusión (correo electrónico, redes sociales, reuniones presenciales, videollamadas, publicidad, etc.). 
                 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
-                  img(src='@/assets/curso/temas/tema1/img14.svg' alt='AvatarTop').w-auto
+                  img(src='@/assets/curso/temas/tema1/img14.svg' alt='Imagen Decorativa').w-auto
                   h5.mb-4.pt-lg-5.pt-xl-0 Receptor
-                  p.mb-0 El cliente, consumidor, aliado o stakeholder que recibe el mensaje.
+                  p.mb-0 El cliente, consumidor, aliado o <em>stakeholder</em> que recibe el mensaje.
                 
                 .tarjeta.bg03.p-4.align-items-center.img-topright
-                  img(src='@/assets/curso/temas/tema1/img15.svg' alt='AvatarTop').w-auto
+                  img(src='@/assets/curso/temas/tema1/img15.svg' alt='Imagen Decorativa').w-auto
                   h5.mb-4.pt-lg-5.pt-xl-0 Retroalimentación
                   p.mb-0 Las respuestas, dudas, objeciones o aceptación que manifiesta el receptor.
 
@@ -103,7 +103,7 @@
             .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
                p.mb-0 
                 b Ejemplo empresarial. 
-                | Una empresa de implementos deportivos que desea vender a un centro de CrossFit debe adaptar su lenguaje técnico al nivel de conocimiento del cliente, evitando jergas innecesarias y utilizando canales adecuados como presentaciones interactivas o correos personalizados. El mensaje debe destacar beneficios concretos, como la durabilidad de los productos o su adaptabilidad al entrenamiento funcional. Además, el canal debe ser coherente con los hábitos del receptor: si el cliente utiliza redes sociales como principal medio de contacto, la propuesta puede incluir un video corto en Instagram o una presentación en Genially.
+                | Una empresa de implementos deportivos que desea vender a un centro de <em>CrossFit</em> debe adaptar su lenguaje técnico al nivel de conocimiento del cliente, evitando jergas innecesarias y utilizando canales adecuados como presentaciones interactivas o correos personalizados. El mensaje debe destacar beneficios concretos, como la durabilidad de los productos o su adaptabilidad al entrenamiento funcional. Además, el canal debe ser coherente con los hábitos del receptor: si el cliente utiliza redes sociales como principal medio de contacto, la propuesta puede incluir un video corto en Instagram o una presentación en Genially.
             .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img17.png', alt='imagen decorativa').w-auto.img17
@@ -144,7 +144,7 @@
             .col-12.col-md-12.col-lg-8.mb-4.mb-lg-0
                p.mb-0 
                 b Ejemplo empresarial. 
-                | Si una empresa de implementos deportivos envía una propuesta a un centro de CrossFit utilizando un lenguaje excesivamente técnico, puede generar confusión en el receptor. Esta sería una barrera semántica. Si el canal elegido es un correo electrónico que llega a la bandeja de spam, se trata de una interferencia tecnológica. Además, si el receptor está saturado de información o tiene prejuicios frente a la marca, se enfrentan barreras psicológicas.
+                | Si una empresa de implementos deportivos envía una propuesta a un centro de <em>CrossFit</em> utilizando un lenguaje excesivamente técnico, puede generar confusión en el receptor. Esta sería una barrera semántica. Si el canal elegido es un correo electrónico que llega a la bandeja de <em>spam</em>, se trata de una interferencia tecnológica. Además, si el receptor está saturado de información o tiene prejuicios frente a la marca, se enfrentan barreras psicológicas.
             .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema1/img09.png', alt='imagen decorativa').w-auto.img09
@@ -170,7 +170,7 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
           figure.p-0
-            img(src="@/assets/curso/temas/tema1/img11.png", class="img-fluid").p-0
+            img(src="@/assets/curso/temas/tema1/img11.png", class="img-fluid" alt='Imagen decorativa').p-0
         .col-12.col-lg-7.p-3
           p.mb-0 Las herramientas digitales han transformado la forma en que las empresas comunican sus propuestas comerciales, permitiendo presentaciones más dinámicas, interactivas y personalizadas. 
 
@@ -229,7 +229,7 @@
           .tarjeta.color-acento-botones.p-4(x="71.7%" y="19.8%" numero="+")
             span 04
             p 
-              b HubSpot CRM:
+              b HubSpot CRM: 
               | seguimiento de clientes, automatización de correos. Envío y monitoreo de propuestas personalizadas.
           
           .tarjeta.color-acento-botones.p-4(x="83.8%" y="56.5%" numero="+")
@@ -239,7 +239,7 @@
               | colaboración en línea, acceso multiplataforma. Propuestas colaborativas en equipos de ventas.
         
         figure.d-block.d-lg-none
-          img(src='@/assets/curso/temas/tema1/img12m.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/img12m.png', alt=' La figura muestra cinco diferentes herramientas digitales para la comunicación comercial. Entre estas tenemos: Canva, Genially, PowerPoint, HubSpot CRM y Google Slides. Canva: Diseño gráfico intuitivo, plantillas personalizables. Creación de propuestas visuales con identidad de marca. Genially: presentaciones interactivas, integración multimedia. Propuestas con videos, enlaces y animaciones. PowerPoint: presentación estructurada, fácil de compartir. Propuestas formales para reuniones o envíos por correo. HubSpot CRM: seguimiento de clientes, automatización de correos. Envío y monitoreo de propuestas personalizadas. Google Slides: colaboración en línea, acceso multiplataforma. Propuestas colaborativas en equipos de ventas')
 
       
    
