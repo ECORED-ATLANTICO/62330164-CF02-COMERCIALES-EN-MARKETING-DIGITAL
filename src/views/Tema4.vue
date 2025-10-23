@@ -282,7 +282,7 @@
 
     //- Titulo
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_4_5 4.5	Estrategias de fidelización
+      h2#t_4_5 4.5	Estrategias
 
     //- Col3 - Col9
     .row.justify-content-center.align-items-center.mb-5

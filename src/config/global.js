@@ -142,7 +142,7 @@ export default {
           },
           {
             numero: '4.5',
-            titulo: 'Estrategias de fidelización',
+            titulo: 'Estrategias',
             hash: 't_4_5',
           },
         ],
@@ -179,7 +179,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_62330164_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -201,14 +201,6 @@ export default {
       tipo: 'Artículo web',
       link:
         'https://www.ventasdealtooctanaje.com/blog/tecnicas-de-seguimiento-comercial-metricas-plantillas-y-ejemplos-de-aplicacion-para-gerentes-y-vendedores',
-    },
-    {
-      tema: 'Estrategias de seguimiento proactivo',
-      referencia:
-        'Nomadia Group. (2023). <em>Seguimiento comercial en 2023: ¡la guía completa!</em> Nomadia.',
-      tipo: 'Artículo web',
-      link:
-        'https://www.nomadia-group.com/es/recursos/blog/seguimiento-comercial-en-2023-la-guia-completa/',
     },
     {
       tema: 'Comunicación comercial efectiva',

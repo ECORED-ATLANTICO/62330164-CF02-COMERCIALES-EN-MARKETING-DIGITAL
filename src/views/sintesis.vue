@@ -19,7 +19,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis/sintesis.svg", alt="El componente formativo “Negociación de propuestas comerciales” guía al aprendiz en materia de comunicación comercial, que analiza los elementos del proceso comunicativo, las interferencias que pueden afectar su efectividad y el uso de herramientas digitales para optimizar los mensajes. Por otro lado, se aborda la negociación estratégica, explorando modelos, técnicas de anclaje y persuasión, así como el diseño de scripts que facilitan la interacción con clientes. Luego, el seguimiento comercial, que incluye protocolos de contacto, herramientas digitales e informes de gestión para mantener relaciones activas y orientadas al cierre. Finalmente, se estudian los programas de fidelización, sus objetivos, beneficios, tipos y estrategias, destacando su papel en la sostenibilidad de los clientes. Todo este recorrido fortalece la capacidad del aprendiz para negociar y generar propuestas efectivas y duraderas en contextos reales.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
