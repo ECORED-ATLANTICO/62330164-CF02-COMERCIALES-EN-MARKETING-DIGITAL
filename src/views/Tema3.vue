@@ -267,7 +267,7 @@
           b A continuación, algunos elementos que un protocolo de contacto comercial debería tener:
 
     .row.mb-5
-      .col-12.col-lg-8.justify-content-center.mx-auto
+      .col-8.col-md-5.col-lg-8.justify-content-center.mx-auto
         figure
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11.svg', alt='imagen decorativa').d-none.d-lg-block
             img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11m.svg', alt='imagen decorativa').d-block.d-lg-none
