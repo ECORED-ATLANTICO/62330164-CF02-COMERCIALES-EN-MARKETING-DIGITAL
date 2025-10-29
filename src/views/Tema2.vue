@@ -172,7 +172,7 @@
                   p Limitación de tiempo o unidades disponibles.
                   p 
                     b Ejemplo aplicado: 
-                    | “solo por hoy: 10 kits disponibles”.
+                    | “solo por hoy: 10 <em>kits</em> disponibles”.
 
                 .tarjeta.p-4.align-items-center.bg09.text-center
                   img(src='@/assets/curso/temas/tema2/img10.svg' alt='AvatarTop').w-auto.mx-auto.mb-3
@@ -253,7 +253,7 @@
                 tr
                   td.text-center Presentación
                   td Exponer la oferta y sus beneficios.
-                  td “Nuestros kits incluyen barras, discos y accesorios…”.
+                  td “Nuestros <em>kits</em> incluyen barras, discos y accesorios…”.
                 tr
                   td.text-center Objeciones
                   td Anticipar y responder dudas o resistencias.

@@ -63,7 +63,7 @@
         ImagenInfografica.color-acento-botones.d-none.d-lg-block.img-infografica-2
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema3/img04.svg', alt='la figura relaciona cuatro técnicas de seguimiento comercial. La primera es la llamada telefónica; a segunda es el correo personalizado, la tercera es la reunión de seguimiento y finalmente el contenido adicional. Llamada telefónica: contacto directo, permite resolver dudas. Ejemplo: “¿Tuviste oportunidad de revisar la propuesta?”. Correo personalizado: refuerza el mensaje, permite adjuntar contenido. Ejemplo: envío de catálogo digital con beneficios adicionales. Reunión de seguimiento: espacio para aclarar dudas y negociar detalles. Ejemplo: agenda virtual para revisar condiciones comerciales. Contenido adicional: aporta valor, mantiene el interés. Ejemplo: video de uso del producto en entrenamiento funcional.')
+              img(src='@/assets/curso/temas/tema3/img04.svg', alt='La figura relaciona cuatro técnicas de seguimiento comercial. La primera es la llamada telefónica; la segunda es el correo personalizado, la tercera es la reunión de seguimiento y finalmente el contenido adicional.')
               figcaption 
                 b Fuente. 
                 | Adaptado de Jobber & Lancaster, 2019.
@@ -73,7 +73,7 @@
             .row.align-items-center
               .col-4
                 figure
-                img(src='@/assets/curso/temas/tema3/img15.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img15.svg', alt='Imagen decorativa')
               .col-8
                 p 
                   b Correo personalizado 
@@ -86,7 +86,7 @@
             .row.align-items-center
               .col-4
                 figure
-                img(src='@/assets/curso/temas/tema3/img14.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img14.svg', alt='Imagen decorativa')
               .col-8
                 p 
                   b Llamada telefónica 
@@ -99,7 +99,7 @@
             .row.align-items-center
               .col-4
                 figure
-                img(src='@/assets/curso/temas/tema3/img16.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img16.svg', alt='Imagen decorativa')
               .col-8
                 p 
                   b Reunión de seguimiento 
@@ -112,7 +112,7 @@
             .row.align-items-center
               .col-4
                 figure
-                img(src='@/assets/curso/temas/tema3/img17.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img17.svg', alt='Imagen decorativa')
               .col-8
                 p 
                   b Contenido adicional 
@@ -121,7 +121,7 @@
                   | video de uso del producto en entrenamiento funcional.
         
         figure.d-block.d-lg-none
-          img(src='@/assets/curso/temas/tema3/img04m.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img04m.svg', alt='La figura relaciona cuatro técnicas de seguimiento comercial. La primera es la llamada telefónica; la segunda es el correo personalizado, la tercera es la reunión de seguimiento y finalmente el contenido adicional.')
 
       
     separador
