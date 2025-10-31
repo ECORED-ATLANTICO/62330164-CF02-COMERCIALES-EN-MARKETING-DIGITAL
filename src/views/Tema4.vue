@@ -105,7 +105,7 @@
                   p Ofrecer beneficios únicos. 
                   p.mb-0
                     b Ejemplo: 
-                    | acceso exclusivo a productos nuevos
+                    | acceso exclusivo a productos nuevos.
                 .col-12.col-md-8.col-lg-7.order-1.order-lg-2.mb-lg-0.mb-5
                   figure
                     img(src='@/assets/curso/temas/tema4/img19.png', class="w-auto")
@@ -134,7 +134,7 @@
         figure
           img(src="@/assets/curso/temas/tema4/img21.svg" alt='Imagen decorativa')
       .col-12.col-lg-9(data-aos="fade-left")
-        p Los beneficios de implementar programas de fidelización van más allá del aumento en ventas
+        p Los beneficios de implementar programas de fidelización van más allá del aumento en ventas.
         .bloque-texto-b.color-secundario-10
           .bloque-texto-b__texto
             i.fas.fa-quote-left
