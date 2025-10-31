@@ -120,7 +120,7 @@
           img(src='@/assets/curso/temas/tema2/img04.png', alt='Imagen decorativa')
           div.texto-tarjeta.bg-white
             .px-lg-4
-              p.mb-0 Las técnicas de anclaje y persuasión son herramientas psicológicas que influyen en la percepción del cliente durante la negociación. El anclaje consiste en presentar una primera cifra o propuesta que sirva como punto de referencia, condicionando las decisiones posteriores (Kahneman, 2011). Por ejemplo, si una empresa ofrece inicialmente un paquete premium de $1.200.000, cualquier oferta posterior parecerá más accesible en comparación.
+              p.mb-0 Las técnicas de anclaje y persuasión son herramientas psicológicas que influyen en la percepción del cliente durante la negociación. El anclaje consiste en presentar una primera cifra o propuesta que sirva como punto de referencia, condicionando las decisiones posteriores (Kahneman, 2011). Por ejemplo, si una empresa ofrece inicialmente un paquete <em>premium</em> de $1.200.000, cualquier oferta posterior parecerá más accesible en comparación.
 
 
     //- Col3 - Col9
@@ -180,7 +180,7 @@
                   p Uso de expertos, testimonios, certificaciones.
                   p 
                     b Ejemplo aplicado: 
-                    | “recomendado por entrenadores certificados”
+                    | “recomendado por entrenadores certificados”.
 
                 .tarjeta.p-4.align-items-center.bg09.text-center
                   img(src='@/assets/curso/temas/tema2/img11.svg' alt='AvatarTop').w-auto.mx-auto.mb-3
@@ -220,7 +220,7 @@
             .col-12.col-md-12.col-lg-8
                p.mb-0 
                 b Por ejemplo, 
-                | un <em>script</em> para presentar implementos deportivos a un centro de <em>CrossFit</em> podría comenzar con una pregunta que conecte emocionalmente: “¿Qué tipo de equipamiento necesitan para mejorar la experiencia de sus atletas?” Luego, se presenta la oferta destacando beneficios como resistencia, diseño ergonómico y garantía. Finalmente, se propone una acción concreta: “¿Le gustaría que le enviemos una cotización personalizada?”
+                | un <em>script</em> para presentar implementos deportivos a un centro de <em>CrossFit</em> podría comenzar con una pregunta que conecte emocionalmente: “¿Qué tipo de equipamiento necesitan para mejorar la experiencia de sus atletas?” Luego, se presenta la oferta destacando beneficios como resistencia, diseño ergonómico y garantía. Finalmente, se propone una acción concreta: “¿Le gustaría que le enviemos una cotización personalizada?”.
             .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0.d-none.d-lg-block
               figure
                 img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema2/img13.png', alt='imagen decorativa').w-auto.img09

@@ -327,8 +327,10 @@ export default {
         'https://repositorio.usam.ac.cr/xmlui/bitstream/handle/11506/1771/LEC HAB BLA 0003 2021.pdf?sequence=1',
     },
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Manzanal, M., Chávez, E., & Rivero, A. (2020).<em> Los elementos de la negociación: ¿cómo intervienen dentro de las etapas?</em> Revista CEA, 4(1). ',
+      link:
+        'https://www.academia.edu/85655717/Los_elementos_de_la_negociaci%C3%B3n_c%C3%B3mo_intervienen_dentro_de_las_etapas',
     },
   ],
   creditos: [

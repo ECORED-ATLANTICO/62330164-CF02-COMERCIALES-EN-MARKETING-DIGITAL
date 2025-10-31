@@ -68,7 +68,7 @@
                 b Fuente. 
                 | Adaptado de Jobber & Lancaster, 2019.
 
-          .tarjeta.color-acento-botones.p-4(x="21%" y="76.7%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="21%" y="75%" numero="+")
             span 02
             .row.align-items-center
               .col-4
@@ -81,7 +81,7 @@
                   b Ejemplo: 
                   | envío de catálogo digital con beneficios adicionales.
           
-          .tarjeta.color-acento-botones.p-4(x="4.9%" y="43.8%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="5.3%" y="43.4%" numero="+")
             span 01
             .row.align-items-center
               .col-4
@@ -94,7 +94,7 @@
                   b Ejemplo: 
                   | “¿Tuviste oportunidad de revisar la propuesta?”.
 
-          .tarjeta.color-acento-botones.p-4(x="77.9%" y="76.7%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="77.8%" y="76.1%" numero="+")
             span 03
             .row.align-items-center
               .col-4
@@ -107,7 +107,7 @@
                   b Ejemplo: 
                   | agenda virtual para revisar condiciones comerciales.
 
-          .tarjeta.color-acento-botones.p-4(x="95%" y="43.8%" numero="")
+          .tarjeta.color-acento-botones.p-4(x="94.7%" y="43.5%" numero="+")
             span 04
             .row.align-items-center
               .col-4
@@ -269,9 +269,8 @@
     .row.mb-5
       .col-8.col-md-5.col-lg-8.justify-content-center.mx-auto
         figure
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11.svg', alt='imagen decorativa').d-none.d-lg-block
-            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11m.svg', alt='imagen decorativa').d-block.d-lg-none
-
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11.svg', alt='A continuación, algunos elementos que un protocolo de contacto comercial debería tener:Frecuencia, Tono del mensaje, Personalización, Canal adecuado').d-none.d-lg-block
+            img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/img11m.svg', alt='A continuación, algunos elementos que un protocolo de contacto comercial debería tener:Frecuencia, Tono del mensaje, Personalización, Canal adecuado').d-block.d-lg-none
 
     separador
 
@@ -343,11 +342,6 @@
                   td.text-center Acciones futuras
                   td Próximos pasos definidos.
                   td Enviar cotización adicional, preparar demo.
-
-
-
-
-
 
 
 </template>
