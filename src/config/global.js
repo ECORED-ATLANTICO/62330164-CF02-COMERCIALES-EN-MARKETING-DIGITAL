@@ -305,8 +305,7 @@ export default {
     {
       referencia:
         'Domínguez Casas, Á. M. (2017). <em>Los programas de fidelización online: un estudio desde el engagement marketing y las comunidades de marca </em>[Tesis doctoral, Universidad de Valladolid]. ',
-      link:
-        'https://www.academia.edu/85655717/Los_elementos_de_la_negociaci%C3%B3n_c%C3%B3mo_intervienen_dentro_de_las_etapas',
+      link: 'https://dialnet.unirioja.es/servlet/tesis?codigo=155310',
     },
     {
       referencia:
@@ -324,7 +323,7 @@ export default {
       referencia:
         'Salcedo, J. (2021).<em> Estrategias y táctica de negociación.</em> Universidad San Marcos. ',
       link:
-        'https://repositorio.usam.ac.cr/xmlui/bitstream/handle/11506/1771/LEC HAB BLA 0003 2021.pdf?sequence=1',
+        'https://repositorio.usam.ac.cr/xmlui/bitstream/handle/11506/1771/LEC%20HAB%20BLA%200003%202021.pdf?sequence=1',
     },
     {
       referencia:
